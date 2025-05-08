@@ -1,0 +1,1 @@
+This is a supervised learning project that intends to train a model predicting the presence of heart failure using a neural network. In this work, we preprocess raw medical data and design, train, and evaluate multiple neural networks. We show that ~88% accuracy and ~92% recall in heart failure prediction can be achieved with these methods.
