@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.pdf
+!*.ipynb
+!*.csv
+!*.mp4
+!Images/
+!Images/**
